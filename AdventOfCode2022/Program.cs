@@ -6,7 +6,7 @@ internal class Program
     {
         Day01 day = new Day01();
 
-        var result = day.Stage1();
+        var result = day.Stage2();
 
         Console.WriteLine(result);
 
