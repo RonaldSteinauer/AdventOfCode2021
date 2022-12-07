@@ -2,12 +2,13 @@
 using AdventOfCode2022.Day02;
 using AdventOfCode2022.Day03;
 using AdventOfCode2022.Day04;
+using AdventOfCode2022.Day05;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        Day04 day = new Day04();
+        Day05 day = new Day05();
 
         var result = day.Stage2();
 
